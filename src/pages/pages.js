@@ -18,26 +18,26 @@ const pageText = [
   That way, it would always be hers, and no one could take it from her.
   `,
   `
-  Days passed and BoBo ruled the cat bed.
-  She wouldn't even get up for food.
+  Hours passed and BoBo ruled the cat bed.
+  Victorious, she slowly drifted off to sleep.
   `,
   `
-  YoYo ate, played with toys, and watched animals outside.
-  BoBo remained in her spot.
+  Feeling strange, BoBo looked at her body.
+  She appeared to be a pillow!
+  Why was she a pillow?
   `,
   `
-  As time went on, BoBo started to feel weak.
-  She was hungry.  Her body ached.
-  She was bored.  She was lonely.
+  She thought she heard the bed answer her question.
+  "Because pillows stay in bed all day."
+  Startled by the suggestion, she woke up.
   `,
   `
-  Why was she so unhappy?  She had her bed, right?
+  Thankful to still be a cat, she started thinking.
   What if life wasn't all about owning the bed?
-  Food, play, and companionship were missing from her life.
   And what if YoYo slept in the bed for a bit?  That would be ok.
   `,
   `
-  She decided to try eating, playing, and being friendly again.
+  She decided to get up to eat and play.
   She started to feel better.  She became happier and healthier.
   YoYo was pleased to have his friend back.
   `,
@@ -53,10 +53,10 @@ const images = [
   "./images/bobo-yoyo-bed.png",
   "./images/yoyo-bed-bobo-angry.png",
   "./images/bobo-only-bed.png",
-  "./images/bobo-happy-bed-no-food.png",
-  "./images/yoyo-eating-playing-watching.png",
-  "./images/bobo-sad-bed-no-food.png",
-  "./images/bobo-sad-thinking.png",
+  "./images/bobo-happy-bed-sleeping.png",
+  "./images/bobo-pillow.png",
+  "./images/bed-answer.png",
+  "./images/bobo-thinking.png",
   "./images/bobo-eating-playing-watching.png",
   "./images/bobo-sleeping.jpg"
 ];
